@@ -1,18 +1,17 @@
 # Fitness Tracker
 
 ## Purpose of this Project
-The purpose of this project was to build an application which utilised handlebars for frontend & MYSQL for the backend.
+The purpose of this project was to build an application which allowed users to create exercises and to track them.
 ## Goals of this Project
-- Use Handlebars when rendering the pages.
-- Use MYSQL to store the "burgers" and their status in the database.
+- Use MongoDB as the database.
 ## Screenshots of Completed Project
 ###### Main Screen of the Application.
-[<img src="https://res.cloudinary.com/denkxexyj/image/upload/v1623341342/1_yjbfs7.png">](First_Image)
-###### Screenshot of the application with a Tester burger not devoured
-[<img src="https://res.cloudinary.com/denkxexyj/image/upload/v1623341342/2_hvpfrw.png">](Second_Image)
-###### Screenshot of the application with the Tester burger being devoured
-[<img src="https://res.cloudinary.com/denkxexyj/image/upload/v1623341342/3_kyvvyf.png">](Third_Image)
+[<img src="https://res.cloudinary.com/denkxexyj/image/upload/v1623343921/f1_t1wnm4.png">](First_Image)
+###### Screenshot showing the addition of a Cardio exercise
+[<img src="https://res.cloudinary.com/denkxexyj/image/upload/v1623343921/f2_pdizwp.png">](Second_Image)
+###### Screenshot showing the addition of a Resistance exercise
+[<img src="https://res.cloudinary.com/denkxexyj/image/upload/v1623343921/f3_ja11r4.png">](Third_Image)
 
 ## Links to GitHub Repository & Live Project
-### https://github.com/Foggles/Jack-s-Burger-App
-### https://burger-application-jf.herokuapp.com/
+### https://github.com/Foggles/Fitness_Tracker
+### https://fitness-tracker-foggles.herokuapp.com/
